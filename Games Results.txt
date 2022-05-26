@@ -1,0 +1,15 @@
+	Chelsea	3-1	Burnley
+	Man City	2-1	Arsenal
+	Man U	1-1	Chelsea
+	Arsenal	3-0	Burnley
+	Burnley	2-2	Man City
+	Man City	2-0	Chelsea
+	Arsenal	1-2	Man City
+	Chelsea	1-2	Man U
+	Chelsea	1-2	Man U
+	Chelsea	3-1	Man U
+	Chelsea	3-1	Man U
+	Arsenal	1-2	Chelsea
+	Arsenal	1-2	Chelsea
+	Leeds U	2-1	Burnley
+	Leeds U	2-1	Burnley

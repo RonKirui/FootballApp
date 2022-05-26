@@ -1,0 +1,1 @@
+{Chelsea=16, Leeds U=6, Arsenal=3, Man City=10, Man U=7, Burnley=1}
